@@ -1,0 +1,11 @@
+﻿生成启动时间为 2017/1/10 9:18:05。
+     1>项目“H:\VisoStidioprojects\win10Opencv31\MystructlineGige\strctlineGige\strctlineGige\strctlineGige.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\win10Bigsoftwares\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt structlineGige.cpp
+         structlineGige.cpp
+     1>structlineGige.cpp(22): fatal error C1083: 无法打开包括文件: “pylon/PylonIncludes.h”: No such file or directory
+     1>已完成生成项目“H:\VisoStidioprojects\win10Opencv31\MystructlineGige\strctlineGige\strctlineGige\strctlineGige.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.58
